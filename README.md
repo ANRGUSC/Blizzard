@@ -1,6 +1,6 @@
 # Blizzard
 
-Implementation of the Blizzard blockchain protocol for mobile devices. 
+Implementation of the Blizzard blockchain protocol for mobile devices, as well as a simplified implementation of Avalanche for comparison purposes. 
 
 
 Use following commands:
